@@ -1,21 +1,18 @@
 {
- "built": "2026-11-19T13:28",
- "count": 804,
- "hash": "956fab280105331d",
+ "built": "2026-11-20T01:04",
+ "count": 811,
+ "hash": "dd18cf2997e55600",
  "added": [
-  "ACTRN12619000942156",
-  "ACTRN12620000217909",
-  "ACTRN12621000234819",
-  "ACTRN12621000933853",
-  "ACTRN12621000951853",
-  "ACTRN12621001198819",
-  "ACTRN12621001302842",
-  "NCT05581004",
-  "NCT06003621",
-  "NCT06710847",
-  "SRC-rare-cancers-australia-Phase2StudyofaModeratelyHypofractionated"
+  "ACTRN12621001627842",
+  "ACTRN12621001736831",
+  "ACTRN12622001339741",
+  "ACTRN12623000653662",
+  "ACTRN12623000829617",
+  "ACTRN12623000938606",
+  "ACTRN12624000038594",
+  "ACTRN12624000079549"
  ],
  "removed": [
-  "SRC-cancer-australia-Randomizedcomparisonofendoscopicbilatera"
+  "SRC-cancer-australia-IntegrativeSupportiveCareTrialtoEnhancep"
  ]
 }
